@@ -64,7 +64,7 @@ const FAQ = [
   { v: "Wat is er te doen in de foyer?", a: "U wordt ontvangen met koffie of thee. Daarna kunt u meedoen aan een tafeltennisclinic met Bettine Vriesekoop, simultaanschaak spelen tegen Hans Böhm, kijken naar een boksdemonstratie van Arnold Vanderlyde en de yips challenge doen met Erik van Wensen." },
   { v: "Wat is de yips challenge?", a: "De yips zijn een plotselinge, onwillekeurige spierschok, vooral bekend uit golf, bijvoorbeeld bij het putten. Neuroloog Erik van Wensen doet er onderzoek naar (<a href=\"https://www.mdsabstracts.org/abstract/the-yips-in-golf-is-it-a-task-specific-dystonia/\">bron</a>)." },   // TODO: aanvullen wat bezoekers precies doen bij de challenge
   { v: "Wat gebeurt er in het hoofdprogramma?", a: "Tom van ’t Hek presenteert een show met Erik Scherder, Jan Vayne, Bas Bloem, Erik van Wensen, Jan Mulder, Stephan Veen, Bettine Vriesekoop, Hans Böhm en Arnold Vanderlyde. Toppianist Jan Vayne verzorgt de muziek. In de pauze krijgt u een drankje." },
-  { v: "Moet ik sportkleding meenemen voor de clinics?", a: "" }   // TODO: bevestigen (voorstel: nee, gewone kleding en schoenen volstaan)
+  { v: "Moet ik sportkleding meenemen voor de clinics?", a: "Nee, gewone kleding en schoenen volstaan." }
  ]},
  { groep: "Locatie en bereikbaarheid", items: [
   { v: "Waar is Theater Orpheus?", a: "Churchillplein 1, 7314 BZ Apeldoorn, aan de rand van het centrum (<a href=\"https://uit.inapeldoorn.nl/?p=4270349\">bron</a>)." },
@@ -83,6 +83,6 @@ const FAQ = [
  ]},
  { groep: "Contact", items: [
   { v: "Ik heb een vraag die hier niet tussen staat. Bij wie kan ik terecht?", a: "Voor vragen over kaarten, toegankelijkheid en parkeren: Theater Orpheus, 055 527 0300. Voor vragen over het evenement of het goede doel: Lionsclub Apeldoorn Het Loo, <a href=\"mailto:${SITE.infoMail}\">${SITE.infoMail}</a>. Voor sponsoring: <a href=\"mailto:${SITE.sponsorMail}\">${SITE.sponsorMail}</a>." },
-  { v: "Kan ik als pers aanwezig zijn of een interview aanvragen?", a: "" }   // TODO: naam en e-mail perscontact
+  { v: "Kan ik als pers aanwezig zijn of een interview aanvragen?", a: "Jazeker, neem hiervoor contact op met Steven Raaijmakers via info@parkinsonbenefiet.nl of 06 116 176 99." }
  ]}
 ];
