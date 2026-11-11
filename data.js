@@ -67,19 +67,19 @@ const FAQ = [
   { v: "Moet ik sportkleding meenemen voor de clinics?", a: "Nee, gewone kleding en schoenen volstaan." }
  ]},
  { groep: "Locatie en bereikbaarheid", items: [
-  { v: "Waar is Theater Orpheus?", a: "Churchillplein 1, 7314 BZ Apeldoorn, aan de rand van het centrum (<a href=\"https://uit.inapeldoorn.nl/?p=4270349\">bron</a>)." },
-  { v: "Kan ik parkeren bij Orpheus?", a: "Ja, onder het theater ligt een parkeergarage met ongeveer 425 plaatsen (<a href=\"https://www.centrumparkeren.nl/apeldoorn/parkeergarages/schouwburg\">bron</a>). Kijk voor de actuele tarieven op <a href=\"https://www.orpheus.nl\">orpheus.nl</a>." },
+  { v: "Waar is Theater Orpheus?", a: "Churchillplein 1, 7314 BZ Apeldoorn, aan de rand van het centrum." },
+  { v: "Kan ik parkeren bij Orpheus?", a: "Ja, onder het theater ligt een parkeergarage met ongeveer 425 plaatsen. Kijk voor de actuele tarieven op <a href=\"https://www.orpheus.nl\">orpheus.nl</a>." },
   { v: "Is Orpheus goed bereikbaar met openbaar vervoer?", a: "" },   // TODO: looptijd vanaf station Apeldoorn en buslijnen
   { v: "Is Orpheus toegankelijk met een rolstoel of rollator?", a: "Orpheus is rolstoeltoegankelijk. Heeft u bijzondere wensen, bijvoorbeeld een rolstoelplaats in de zaal? Geef dit dan door bij het bestellen van uw kaarten of neem contact op met Orpheus via 055 527 0300." },
   { v: "Ik heb Parkinson. Waar moet ik rekening mee houden?", a: "" }   // TODO: organisatie (rustplekken, zitplaatsen bij het walking dinner, begeleider welkom)
  ]},
  { groep: "Het goede doel", items: [
   { v: "Waar gaat de opbrengst naartoe?", a: "Naar twee doelen: onderzoek naar Parkinson door prof. Bas Bloem, en het Bettine Vriesekoop Fonds, dat zich richt op meer bewegen voor mensen met Parkinson." },
-  { v: "Wat doet het Bettine Vriesekoop Fonds?", a: "Bettine Vriesekoop richtte haar fonds op om tafeltennis in te zetten als therapie bij Parkinson (<a href=\"https://www.rodi.nl/alphenaandenrijn/nieuws/507748/tafeltennisster-bettine-vriesekoop-tipt-senioren-tijdens-clinic-bij-wijkcentrum-swaenswijk\">bron</a>)." },
+  { v: "Wat doet het Bettine Vriesekoop Fonds?", a: "Bettine Vriesekoop richtte haar fonds op om tafeltennis in te zetten als therapie bij Parkinson." },
   { v: "Waarom bewegen bij Parkinson?", a: "Onderzoek laat zien dat regelmatig bewegen mensen met Parkinson helpt om beter te bewegen en helderder te denken. Precies daarover gaat Het fitte brein." },
   { v: "Gaat de hele opbrengst naar het goede doel?", a: "" },   // TODO: welk deel na aftrek van kosten, en of sponsors de kosten dragen
   { v: "Kan ik ook doneren zonder het evenement te bezoeken?", a: "" },   // TODO: rekeningnummer of donatielink, ANBI-status
-  { v: "Kan mijn bedrijf sponsoren?", a: "Graag! Op de pagina <a href=\"sponsoren.html\">Sponsoren</a> leest u wat u ervoor krijgt. Vragen? Mail <a href=\"mailto:${SITE.sponsorMail}\">${SITE.sponsorMail}</a>." }
+  { v: "Kan mijn bedrijf sponsoren?", a: "Graag! Op de pagina <a href=\"sponsoren.html\">Sponsoring</a> leest u wat u ervoor krijgt. Vragen? Mail <a href=\"mailto:${SITE.sponsorMail}\">${SITE.sponsorMail}</a>." }
  ]},
  { groep: "Contact", items: [
   { v: "Ik heb een vraag die hier niet tussen staat. Bij wie kan ik terecht?", a: "Voor vragen over kaarten, toegankelijkheid en parkeren: Theater Orpheus, 055 527 0300. Voor vragen over het evenement of het goede doel: Lionsclub Apeldoorn Het Loo, <a href=\"mailto:${SITE.infoMail}\">${SITE.infoMail}</a>. Voor sponsoring: <a href=\"mailto:${SITE.sponsorMail}\">${SITE.sponsorMail}</a>." },
