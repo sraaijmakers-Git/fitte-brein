@@ -15,10 +15,10 @@ const SITE = {
 const SPEAKERS = [
   { naam: "Bas Bloem", rol: "Hoogleraar neurologie", foto: "bas-bloem.jpg" },
   { naam: "Erik Scherder", rol: "Hoogleraar neuropsychologie", foto: "erik-scherder.jpg" },
-  { naam: "Erik van Wensen", rol: "Neuroloog", foto: "" },
+  { naam: "Erik van Wensen", rol: "Neuroloog", foto: "erik-van-wensen.jpg" },
   { naam: "Jan Vayne", rol: "Pianist", foto: "jan-vayne.jpg" },
   { naam: "Jan Mulder", rol: "Columnist en oud-voetballer", foto: "jan-mulder.jpg" },
-  { naam: "Stephan Veen", rol: "Olympisch kampioen hockey", foto: "" },
+  { naam: "Stephan Veen", rol: "Olympisch kampioen hockey", foto: "stephan-veen.jpg" },
   { naam: "Arnold Vanderlyde", rol: "Olympisch brons boksen", foto: "arnold-vanderlyde.jpg" },
   { naam: "Bettine Vriesekoop", rol: "Tafeltennisicoon", foto: "bettine-vriesekoop.jpg" },
   { naam: "Hans Böhm", rol: "Schaakmeester, publicist en presentator", foto: "hans-bohm.jpg" },
