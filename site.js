@@ -1,4 +1,4 @@
-const PAGES=[["index.html","Programma"],["sponsoren.html","Word sponsor"],["faq.html","Veelgestelde vragen"]];
+const PAGES=[["index.html","Programma"],["sponsoren.html","Sponsoring"],["faq.html","Veelgestelde vragen"]];
 const cur=location.pathname.split("/").pop()||"index.html";
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 document.querySelector("#hdr").outerHTML=`<header class="site-header"><div class="wrap"><a class="brand" href="index.html">Het fitte brein</a><nav aria-label="Hoofdmenu">${PAGES.map(([h,t])=>`<a href="${h}"${h===cur?' aria-current="page"':""}>${t}</a>`).join("")}<a class="btn" style="margin-left:1.2rem;padding:.4rem 1rem" href="${SITE.ticketUrl}">Tickets</a></nav></div></header>`;
